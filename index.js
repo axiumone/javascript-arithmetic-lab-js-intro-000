@@ -26,9 +26,9 @@ function divide(a, b) {
   return(divide)
 }
 
-function increment(n) {
-  var number = 5
-  n += 1
+function increment() {
+  var number = 5;
+  number ++;
   return(number)
 }
 
