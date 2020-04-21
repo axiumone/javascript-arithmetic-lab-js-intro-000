@@ -30,3 +30,8 @@ function increment() {
   number += 1
   return(number)
 }
+
+function decrement() {
+  number -= 1
+  return(number)
+}
