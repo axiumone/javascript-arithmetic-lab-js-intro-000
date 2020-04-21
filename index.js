@@ -5,3 +5,7 @@ function add() {
 function subtract() {
   n -= 1
 }
+
+function add() {
+  n += i
+}
