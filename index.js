@@ -25,3 +25,8 @@ function divide(a, b) {
   divide = a /=b;
   return(divide)
 }
+
+function increment(n) {
+  increment = n++;
+  return(increment)
+}
