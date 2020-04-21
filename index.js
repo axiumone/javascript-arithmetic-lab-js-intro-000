@@ -27,6 +27,6 @@ function divide(a, b) {
 }
 
 function increment(n) {
-  n+=;
-  return(n)
+  increment = n+=;
+  return(increment)
 }
