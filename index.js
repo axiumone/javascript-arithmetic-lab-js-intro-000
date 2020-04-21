@@ -6,6 +6,7 @@ function subtract() {
   n -= 1
 }
 
-function add() {
-  n += i
+function add(a, b) {
+  a += b
+  return()
 }
