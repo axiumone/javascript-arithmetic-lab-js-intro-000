@@ -26,13 +26,13 @@ function divide(a, b) {
   return(divide)
 }
 
-function increment() {
-  var number = 5;
-  number ++;
-  return(number)
+var n = 0;
+
+function increment(n) {
+  return ++n;
 }
 
 function decrement(n) {
-  number -= 1
-  return(number)
+  n--;
+  return(n);
 }
