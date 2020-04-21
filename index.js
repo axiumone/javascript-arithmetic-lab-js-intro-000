@@ -26,7 +26,6 @@ function divide(a, b) {
   return(divide)
 }
 
-var n = 0;
 
 function increment(n) {
   return ++n;
