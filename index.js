@@ -27,11 +27,12 @@ function divide(a, b) {
 }
 
 function increment() {
-  number += 1
-  return(number)
+  n += 1
+  return(n)
 }
 
 function decrement() {
-  number -= 1
-  return(number)
+  n -= 1
+  return(n)
 }
+  
