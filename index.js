@@ -10,3 +10,8 @@ function add(a, b) {
   add = a +=b
   return(add)
 }
+
+function subtract(a, b) {
+  subtract = a -= b
+  return(add)
+}
