@@ -7,11 +7,11 @@ function subtract() {
 }
 
 function add(a, b) {
-  add = a +=b
+  add = a +=b;
   return(add)
 }
 
 function subtract(a, b) {
-  subtract = a -= b
-  return(add)
+  subtract = a -=b;
+  return(subtract)
 }
