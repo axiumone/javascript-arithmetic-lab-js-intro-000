@@ -1,7 +1,7 @@
-function increment(n) {
+function add() {
   n += 1
 }
 
-function decrement(n) {
+function subtract() {
   n -= 1
 }
